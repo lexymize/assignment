@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(229, 241, 237);
+}
+
+hr {
+  width: 20%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  height: 0;
+  border-color: #192020;
+}
+a {
+  text-decoration: none;
+  color: blue;
+  padding: 30px 10px 0 10px;
+}
+
+.sign {
+  position: absolute;
+  right: 30px;
+  top: 20px;
+}
